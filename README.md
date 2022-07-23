@@ -1,15 +1,15 @@
 <h1 align="center"> Olá, mundo! Me chamo Julia Gabrielly. 👩🏼‍💻 </h1>
 
-- 💼 Ocupação: estudante do Ensino Médio. Não obtenho experiência profissional.
+- 💼 Estudante do Ensino Médio. Não obtenho experiência profissional.
 - 📚 Estou aprendendo HTML, CSS, Javascript e segurança cibernética. Ademais, estou aprendendo inglês.
-- 👩🏼 Meus pronomes são ela/dela
+- 👩🏼 Meus pronomes são ela/dela.
 - ❤️ Outros interesses: matemática (com foco em olimpíadas de matemática), livros e música. 
 
 ### <h1 align="center"> Hello, world! I'm Julia Gabrielly. 👩🏼‍💻 </h1>
 
-- 💼 Occupation: High-school student. I have no professional experience.
+- 💼 High-school student. I have no professional experience.
 - 📚 I'm learning HTML, CSS, Javascript and cybersecurity. Moreover, i'm learning english.
-- 👩🏼 My pronoums are she/her
+- 👩🏼 My pronoums are she/her.
 - ❤️ Other interests: math (focused on math olympiads), books and music.
 
 <div align="center">
