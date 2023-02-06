@@ -1,4 +1,4 @@
-<h1 align="center"> Olá, mundo! Me chamo Julia Gabrielly. 👩🏼‍💻 </h1>
+<h1 align="center"> Olá, mundo! Eu sou a Julia Gabrielly. 👩🏼‍💻 </h1>
 
 - 💼 Estudante do Ensino Médio. Não obtenho experiência profissional.
 - 📚 Estou aprendendo HTML, CSS, Javascript e Segurança da Informação (com foco em Segurança Cibernética).
