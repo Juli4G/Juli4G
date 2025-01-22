@@ -1,16 +1,16 @@
 <h1 align="center"> Olá, mundo! Eu sou a Julia Gabrielly. 👩🏼‍💻 </h1>
 
-- 💼 Estudante do Ensino Médio. Não obtenho experiência profissional.
-- 📚 Estou aprendendo HTML, CSS, Javascript e Segurança da Informação (com foco em Segurança Cibernética).
+- 💼 Estudante de Matemática do IME-USP. Não obtenho experiência profissional.
+- 📚 Estou aprendendo HTML e CSS.
 - 👩🏼 Meus pronomes são ela/dela.
-- ❤️ Outros interesses: matemática (com foco em olimpíadas de matemática), livros e música. 
+- ❤️ Outros interesses: olimpíadas de matemática, livros e música. 
 
 ### <h1 align="center"> Hello, world! I'm Julia Gabrielly. 👩🏼‍💻 </h1>
 
-- 💼 High-school student. I have no professional experience.
-- 📚 I'm learning HTML, CSS, Javascript and Information Security (focused on CyberSecurity).
+- 💼 Math student from IME-USP. I have no professional experience.
+- 📚 I'm learning HTML and CSS.
 - 👩🏼 My pronoums are she/her.
-- ❤️ Other interests: math (focused on math olympiads), books and music.
+- ❤️ Other interests: math olympiads, books and music.
 
 <div align="center">
   <a href="https://github.com/Juli4G">
